@@ -12,11 +12,11 @@
 
 - 🌱 My focus lies in becoming a proficient **MERN stack developer, with a solid foundation in both front-end and back-end development.**
 
-- 📝 I regularly write articles on [https://mern-blog-mtn5.onrender.com/](https://mern-blog-mtn5.onrender.com/)
+- 📝 I regularly write articles on [Blog website](https://mern-blog-mtn5.onrender.com/)
 
 - 💬 Ask me about **MERN stack, PERN stack**
 
-- 📫 How to reach me **khushisrivastava202@gmail.com**
+- 📫 Checkout my portfolio [**Portfolio**](https://khushi-portfolio.onrender.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
