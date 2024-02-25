@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **MERN stack, PERN stack**
 
-- 📫 Checkout my portfolio [**Portfolio**](https://khushi-portfolio.onrender.com/)
+- 📫 Checkout my [**Portfolio**](https://khushi-portfolio.onrender.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
